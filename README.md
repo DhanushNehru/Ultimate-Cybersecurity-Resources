@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 ## Training Platforms
 - [Hackthebox Academy](https://www.hackthebox.com/)
 - [TryHackme](https://tryhackme.com/)
+- [Over The Wire](https://overthewire.org/wargames/)
 
 
 ## Famous Cybersecurity Publlications
