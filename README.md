@@ -8,21 +8,26 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 ## Table of Contents
 [Ultimate-Cybersecurity-Resources](#Ultimate-Cybersecurity-Resources)
 - [Training Platfoms](#Training-Platforms)
-- [Famous-Cybersecurity-Publlications](#Famous-Cybersecurity-Publlications)
+- [Famous Cybersecurity Publlications](#Famous-Cybersecurity-Publlications)
 - [Youtube Channels](#Youtube-Channels)
+- [Famous Websites](#Famous-Websites)
 
 ## Training Platforms
 - [Hackthebox Academy](https://www.hackthebox.com/)
 - [TryHackme](https://tryhackme.com/)
 - [Over The Wire](https://overthewire.org/wargames/)
-
+- [Udemy](https://www.udemy.com/)
 
 ## Famous Cybersecurity Publlications
 - [The Hacker News](https://thehackernews.com/)
 - [Dark Reading](https://www.darkreading.com/)
+- [Krebs On Secuity](https://krebsonsecurity.com/)
 
 ## Youtube Channels
+- [zSecurity](https://www.youtube.com/c/zSecurity)
 
+## Famous Websites
+- [OWASP](https://owasp.org/)
 
 
 ----
