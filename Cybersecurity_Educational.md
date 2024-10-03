@@ -40,7 +40,7 @@ This is an resources related to teaching cybersecurity, primarly to running Capt
 * [SANS Cyber Aces](https://tutorials.cyberaces.org/) – video tutorials with handouts and quizzes
 * [Teaching Security](https://teachingsecurity.org/) – ready-made materials for classrooms
 
-## Other interesting lists
+## Other lists
 
 * [Awesome Security List](https://github.com/sindresorhus/awesome#security) – a major list on everything security-related
 * [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/PracticeUrls.html) – a roadmap for vulnerable apps and systems
