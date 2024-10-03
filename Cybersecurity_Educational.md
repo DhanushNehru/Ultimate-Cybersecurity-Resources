@@ -48,6 +48,42 @@ This is an resources related to teaching cybersecurity, primarly to running Capt
 * [TeachCyber](https://teachcyber.tk/) – a list of free online resources
 * [WeChall](https://www.wechall.net/active_sites) – a list of web challenges and practice sites
 
+## Threat databases and alerts
+
+* [ATT&CK](https://attack.mitre.org/) - ATT&CK is a knowledge base of cyber adversary behavior and taxonomy for adversarial actions across their lifecycle. ATT&CK has two parts: ATT&CK for Enterprise, which covers behavior against enterprise IT networks and cloud, and ATT&CK for Mobile, which focuses on behavior against mobile devices.
+
+* [NHS Digital Cyber Alerts](https://digital.nhs.uk/cyber-alerts) - We issue cyber security alert notifications to health and care organisations, ranging from weekly threat bulletins to immediate high-severity alerts.
+
+* [cve-search](https://cve.circl.lu/) - cve-search is accessible via a web interface and an HTTP API. cve-search is an interface to search publicly known information from security vulnerabilities in software and hardware along with their corresponding exposures.
+
+* [VULDB](https://vuldb.com/?) - Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
+
+* [The Exploit Database](https://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
+
+* [0day.today](https://en.0day.today/) - 0day.today - Biggest Exploits Database and 0day market - The Underground, is one of the world's most popular and comprehensive computer security web sites.
+
+* [RAPID7](https://www.rapid7.com/db/) - A curated repository of vetted computer software exploits and exploitable vulnerabilities.
+
+* [National Vulnerability Database](https://nvd.nist.gov/vuln/search) - The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP).
+
+* [CXSecurity](https://cxsecurity.com/exploit/) - (WLB2) World Laboratory of Bugtraq is a huge collection of information on data communications safety. Its main objective is to inform about errors in various applications.
+
+* [China National Vulnerability Database (CNNVD)](http://www.cnnvd.org.cn/) - Chinese government-run vulnerability database analoguous to the United States’s CVE database hosted by Mitre Corporation.
+
+* [Vulnerability Assessment Platform](https://vulners.com/) - Largest correlated database of vulnerabilities and exploits
+
+* [GitHub Advisory Database](https://github.com/advisories/) - The latest security vulnerabilities from the world of open source software.
+
+* [OSV](https://osv.dev/) - OSV is a vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
+
+* [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for known vulnerabilities.
+
+* [Vulnerability Notes Database](https://www.kb.cert.org/vuls/) - The Vulnerability Notes Database provides information about software vulnerabilities. Vulnerability notes include summaries, technical details, remediation information, and lists of affected vendors.
+
+* [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.
+* [Stellastra TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - List of hundreds of TLS cipher suites alongside their security rating and vulnerability/deprecation status. 
+
+
 ## List of some common and famous English youtube channels
 
 1. Cryptocat
