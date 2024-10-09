@@ -40,6 +40,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [The Register](https://www.theregister.com/)
 - [Threatpost](https://threatpost.com/)
 - [ZDNet Security](https://www.zdnet.com/topic/security/)
+- [Infostealers by Hudson Rock](https://www.infostealers.com/) - The all-around hub with news and publications about Infostealers
 
 
 ## YouTube Channels
