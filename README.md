@@ -36,7 +36,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [SANS Institute](https://www.sans.org/)
-- [TryHackme](https://tryhackme.com/)
+- [TryHackMe](https://tryhackme.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
 
