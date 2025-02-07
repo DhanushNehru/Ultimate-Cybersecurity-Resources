@@ -60,6 +60,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Professor Messer](https://www.youtube.com/c/professormesser)
 - [Security Now](https://www.youtube.com/c/SecurityNow)
 - [zSecurity](https://www.youtube.com/c/zSecurity)
+- [Dhanush Nehru](youtube.com/@dhanushnehru)
 
 ## Famous Websites
 - [CVE Details](https://www.cvedetails.com/)
