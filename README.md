@@ -41,15 +41,15 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Udemy](https://www.udemy.com/)
 
 ## Famous Cybersecurity Publications
-- [CyberScoop](https://www.cyberscoop.com/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Krebs On Security](https://krebsonsecurity.com/)
-- [Security Week](https://www.securityweek.com/)
-- [The Hacker News](https://thehackernews.com/)
-- [The Register](https://www.theregister.com/)
-- [Threatpost](https://threatpost.com/)
-- [ZDNet Security](https://www.zdnet.com/topic/security/)
-- [Infostealers by Hudson Rock](https://www.infostealers.com/) - The all-around hub with news and publications about Infostealers
+- [CyberScoop](https://www.cyberscoop.com/) – A cybersecurity news platform covering government, enterprise, and emerging threats.  
+- [Dark Reading](https://www.darkreading.com/) – A widely trusted source for security news, research, and threat intelligence.  
+- [Krebs On Security](https://krebsonsecurity.com/) – A blog by Brian Krebs focusing on cybercrime, data breaches, and hacking trends.  
+- [Security Week](https://www.securityweek.com/) – A cybersecurity news website covering enterprise security, hacking, and industry trends.  
+- [The Hacker News](https://thehackernews.com/) – A go-to source for cybersecurity news, research, and technical articles.  
+- [The Register](https://www.theregister.com/) – A tech and security news site with in-depth reporting and investigative articles.  
+- [Threatpost](https://threatpost.com/) – A leading cybersecurity news source providing reports on emerging threats and vulnerabilities.  
+- [ZDNet Security](https://www.zdnet.com/topic/security/) – A security-focused section of ZDNet covering cybersecurity trends and tech news.  
+- [Infostealers by Hudson Rock](https://www.infostealers.com/) – A hub for news and research specifically about Infostealer malware threats.  
 
 
 ## YouTube Channels
@@ -71,13 +71,22 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [US-CERT](https://us-cert.cisa.gov/)
 
 ## Tools or Services
-- [Burp Suite](https://portswigger.net/burp)
-- [Crackstation](https://crackstation.net/)
-- [Metasploit](https://www.metasploit.com/)
-- [Nmap](https://nmap.org/)
-- [OWASP ZAP](https://www.zaproxy.org/)
-- [Wireshark](https://www.wireshark.org/)
 
+### 🔍 Information Gathering  
+- [Nmap](https://nmap.org/) – A powerful network scanning tool for discovering hosts and services.
+- [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.
+- [WHOIS](https://www.whois.com/) – Domain registration and ownership lookup.
+- [Wireshark](https://www.wireshark.org/) – A network protocol analyzer for capturing and inspecting traffic in real time.
+
+### 🔎 Vulnerability Analysis  
+- [OWASP ZAP](https://www.zaproxy.org/) – A security scanner for finding vulnerabilities in web applications.  
+- [Metasploit](https://www.metasploit.com/) – A penetration testing framework for exploiting system vulnerabilities.  
+
+### 🔐 Exploitation & Attack Simulation  
+- [Burp Suite](https://portswigger.net/burp) – A toolkit for web security testing, including scanning and intercepting traffic.  
+
+### 🔑 Password Cracking & Decryption  
+- [Crackstation](https://crackstation.net/) – A password hash lookup tool using precomputed hash databases.
 
 ----
 
