@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Cybrary](https://www.cybrary.it/)
 - [edX](https://www.edx.org/)
 - [Google Cybersecurity Certificate](https://grow.google/cybersecurity/)
+- [Hacksplanning](https://www.hacksplaining.com)
 - [Hackthebox Academy](https://www.hackthebox.com/)
 - [HackerOne](https://www.hackerone.com/)
 - [Infosec Skills](https://www.infosecinstitute.com/skills/)
