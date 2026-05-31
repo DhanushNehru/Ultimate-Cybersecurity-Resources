@@ -3,14 +3,12 @@
 <div align="center">
   
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
-[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
-[![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
 
 </div>
 
 <img width="1536" height="1024" alt="cyber" src="https://github.com/user-attachments/assets/7eb66bc5-f4a8-464c-864e-32bf9a33fd76" />
 
-A collection of cybersecuity resources 
+A collection of cybersecuity resources for all your cyber needs
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Cybersecurity-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
