@@ -39,6 +39,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [TryHackMe](https://tryhackme.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
+- [CTI Academy](https://ctiacademy.io/)
 
 ## Famous Cybersecurity Publications
 - [CyberScoop](https://www.cyberscoop.com/) – A cybersecurity news platform covering government, enterprise, and emerging threats.  
