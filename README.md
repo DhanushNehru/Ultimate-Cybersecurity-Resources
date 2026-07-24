@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 ## Training Platforms
 - [Coursera](https://www.coursera.org/)
 - [Cybersecurity Tribe](https://www.cybersecuritytribe.com/)
+- [CTI Academy](https://ctiacademy.io/)
 - [Cybrary](https://www.cybrary.it/)
 - [edX](https://www.edx.org/)
 - [Google Cybersecurity Certificate](https://grow.google/cybersecurity/)
@@ -39,7 +40,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [TryHackMe](https://tryhackme.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
-- [CTI Academy](https://ctiacademy.io/)
+
 
 ## Famous Cybersecurity Publications
 - [CyberScoop](https://www.cyberscoop.com/) – A cybersecurity news platform covering government, enterprise, and emerging threats.  
