@@ -23,8 +23,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 
 ## Training Platforms
 - [Coursera](https://www.coursera.org/)
-- [Cybersecurity Tribe](https://www.cybersecuritytribe.com/)
 - [CTI Academy](https://ctiacademy.io/)
+- [Cybersecurity Tribe](https://www.cybersecuritytribe.com/)
 - [Cybrary](https://www.cybrary.it/)
 - [edX](https://www.edx.org/)
 - [Google Cybersecurity Certificate](https://grow.google/cybersecurity/)
