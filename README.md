@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 
 ### 🔐 Exploitation & Attack Simulation  
 - [Burp Suite](https://portswigger.net/burp) – A toolkit for web security testing, including scanning and intercepting traffic.  
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon): Open source autonomous penetration testing platform that orchestrates 50 specialist agents over MCP and produces reproducible proof of exploitation, self hosted via Docker.
 
 ### 🔑 Password Cracking & Decryption  
 - [Crackstation](https://crackstation.net/) – A password hash lookup tool using precomputed hash databases.
