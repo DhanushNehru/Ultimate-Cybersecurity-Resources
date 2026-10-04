@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="1536" height="1024" alt="cyber" src="https://github.com/user-attachments/assets/7eb66bc5-f4a8-464c-864e-32bf9a33fd76" />
+<img width="1280" height="640" alt="cyber" src="assets/1-banner.jpg" />
 
 A collection of cybersecuity resources for all your cyber needs
 
