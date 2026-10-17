@@ -123,6 +123,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 ### 🔑 Password Cracking & Decryption  
 - [Crackstation](https://crackstation.net/) – A password hash lookup tool using precomputed hash databases.
 
+### 🤖 AI & LLM Security  
+- [agentcheck](https://github.com/DhanushNehru/agentcheck) – A zero-dependency CLI + GitHub Action that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, .cursor/rules, MCP configs) for hidden prompt-injection attacks.
+
 ----
 
 Feel free to update the README.md or raise issues if any to enhance the project
