@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com)
 
 </div>
 
@@ -124,7 +124,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Crackstation](https://crackstation.net/) – A password hash lookup tool using precomputed hash databases.
 
 ### 🤖 AI & LLM Security  
-- [agentcheck](https://github.com/DhanushNehru/agentcheck) – A zero-dependency CLI + GitHub Action that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, .cursor/rules, MCP configs) for hidden prompt-injection attacks.
+- [agentcheck](https://github.com/umar11shah/agentcheck) – A zero-dependency CLI + GitHub Action that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, .cursor/rules, MCP configs) for hidden prompt-injection attacks.
 
 ----
 
