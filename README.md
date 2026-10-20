@@ -126,6 +126,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 ### 🤖 AI & LLM Security  
 - [agentcheck](https://github.com/DhanushNehru/agentcheck) – A zero-dependency CLI + GitHub Action that scans AI coding-agent config files (CLAUDE.md, AGENTS.md, .cursor/rules, MCP configs) for hidden prompt-injection attacks.
 
+### 🌐 Threat Intelligence & Monitoring  
+- [ICHI — Internet Cyber Health Index](https://ichi.global) – Free, source-transparent daily barometer of internet cyber health; aggregates threat alerts, CVEs, and telemetry from 20+ public sources (CISA KEV, Shodan, Censys, abuse.ch) for an outside-in directional view of global cyber conditions.
+
 ----
 
 Feel free to update the README.md or raise issues if any to enhance the project
