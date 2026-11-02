@@ -111,6 +111,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Cybersecurity
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.
 - [WHOIS](https://www.whois.com/) – Domain registration and ownership lookup.
 - [Wireshark](https://www.wireshark.org/) – A network protocol analyzer for capturing and inspecting traffic in real time.
+- [Glarion](https://glarion.app/) – Free public checks for website certificates, security headers and public configuration; full scans are paid and require domain verification.
 
 ### 🔎 Vulnerability Analysis  
 - [OWASP ZAP](https://www.zaproxy.org/) – A security scanner for finding vulnerabilities in web applications.  
